@@ -6,7 +6,7 @@ var lengthOfLongestSubstring = function(s) {
 
 };
 
-let input = "bpfbhmipx"
+const input = "bpfbhmipx"
 
 
 let r = lengthOfLongestSubstring( input )
